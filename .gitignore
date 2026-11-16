@@ -1,0 +1,8 @@
+/build/
+*.class
+*.war
+/test-work/
+/src/db.properties
+.classpath
+.project
+/.settings/
